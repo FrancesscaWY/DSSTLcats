@@ -1,0 +1,5 @@
+# ninja log v5
+0	395	7480954321793182	CMakeFiles/company_1.dir/main.cpp.obj	583e528d2cf9a8a9
+6	397	7480954321793182	CMakeFiles/company_1.dir/employee_1.cpp.obj	ac059eae9ca5b13c
+10	397	7480954321793182	CMakeFiles/company_1.dir/company.cpp.obj	c40fc9588b3c284c
+398	567	7480954323475609	company_1.exe	59a8d43c57eb9146
